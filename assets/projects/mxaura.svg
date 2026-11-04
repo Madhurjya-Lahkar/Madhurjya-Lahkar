@@ -13,6 +13,6 @@
   <text class="name" x="20" y="42">MXAura</text>
   <text class="desc" x="20" y="70">Discord bot with gambling games, boss</text>
   <text class="desc" x="20" y="89">fights and other game modes.</text>
-  <text class="stack" x="20" y="112">JavaScript · Node.js · discord.js · MongoDB</text>
+  <text class="stack" x="20" y="112">JavaScript · discord.js · MongoDB</text>
   <text class="status" x="20" y="132">OFFLINE</text>
 </svg>
