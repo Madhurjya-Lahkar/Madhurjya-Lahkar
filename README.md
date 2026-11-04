@@ -36,8 +36,8 @@ I'm a developer. I learn by building things and fixing them when they break.
 <img src="assets/projects/mxaura.svg" width="49%" alt="MXAura">
 <img src="assets/projects/invia.svg" width="49%" alt="Invia">
 <img src="assets/projects/mavx.svg" width="49%" alt="MAVX">
-<img src="assets/projects/lootsnag.svg" width="49%" alt="LootSnag">
-<img src="assets/projects/lootsnag-site.svg" width="49%" alt="LootSnag Site">
+<a href="https://github.com/Madhurjya-Lahkar/LootSnag"><img src="assets/projects/lootsnag.svg" width="49%" alt="LootSnag"></a>
+<a href="https://github.com/Madhurjya-Lahkar/LootSnag-Frontend"><img src="assets/projects/lootsnag-site.svg" width="49%" alt="LootSnag Site"></a>
 
 ---
 
