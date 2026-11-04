@@ -13,6 +13,6 @@
   <text class="name" x="20" y="42">SSNT Website</text>
   <text class="desc" x="20" y="70">Website for Shankardev Shishu Niketan,</text>
   <text class="desc" x="20" y="89">Tulshibari. School info, results, admin dashboard.</text>
-  <text class="stack" x="20" y="112">HTML, CSS, JavaScript · Cloudflare Workers · Supabase</text>
+  <text class="stack" x="20" y="112">HTML · CSS · JavaScript · Cloudflare Workers · Supabase</text>
   <text class="status" x="20" y="132">VIEW PROJECT</text>
 </svg>

@@ -13,6 +13,6 @@
   <text class="name" x="20" y="42">LootSnag Site</text>
   <text class="desc" x="20" y="70">Web platform for LootSnag, with a main</text>
   <text class="desc" x="20" y="89">website and a separate owner panel.</text>
-  <text class="stack" x="20" y="112">HTML, CSS, JavaScript · Next.js, React, TypeScript, Tailwind CSS</text>
+  <text class="stack" x="20" y="112">HTML · CSS · JavaScript · Next.js · React · TypeScript · Tailwind CSS</text>
   <text class="status" x="20" y="132">OFFLINE</text>
 </svg>
