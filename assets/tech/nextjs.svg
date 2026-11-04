@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="40" viewBox="0 0 119 40">
+  <style>
+    text { font-family: "Segoe UI", Arial, sans-serif; font-size: 13.5px; font-weight: bold; fill: #f4f4f4; }
+  </style>
+  <rect x="3" y="3" width="113" height="34" rx="9" fill="#1e1e1e" stroke="#f4f4f4" stroke-width="2"/>
+  <path transform="translate(17 10) scale(.8333)" fill="#f4f4f4" d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z"/>
+  <text x="45" y="25">Next.js</text>
+</svg>
