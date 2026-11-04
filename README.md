@@ -40,3 +40,16 @@ I'm a developer. I learn by building things and fixing them when they break.
 <img src="assets/projects/lootsnag-site.svg" width="49%" alt="LootSnag Site">
 
 ---
+
+### GitHub Stats
+
+<a href="https://github.com/Madhurjya-Lahkar"><img align="top" width="49%" src="https://github-stats-extended.vercel.app/api?username=Madhurjya-Lahkar&show_icons=true&custom_title=MAD-X%27s+GitHub+Stats&bg_color=1E1E1E&title_color=F4F4F4&text_color=F4F4F4&icon_color=C43A3A&border_color=F4F4F4&border_radius=0&card_width=470&line_height=21&disable_animations=true" alt="GitHub stats"></a>
+<a href="https://github.com/Madhurjya-Lahkar"><img align="top" width="49%" src="https://streak-stats.demolab.com?user=Madhurjya-Lahkar&background=1E1E1E&border=F4F4F4&stroke=6B6B6B&ring=C43A3A&fire=C43A3A&currStreakNum=F4F4F4&sideNums=F4F4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&dates=9A9A9A&border_radius=0&timezone=Asia%2FKolkata&disable_animations=true&card_width=470&card_height=170" alt="GitHub contribution streak"></a>
+
+<br>
+
+<div align="center">
+  <img align="left" src="assets/madx.svg" height="28" alt="MAD-X">
+  <a href="mailto:madhurjyaxxx77@gmail.com"><img align="right" src="assets/email.svg" height="28" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=Madhurjya-Lahkar&color=C43A3A&labelColor=1E1E1E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+</div>
