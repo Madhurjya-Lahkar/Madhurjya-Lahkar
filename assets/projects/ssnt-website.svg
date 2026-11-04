@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394" height="160" viewBox="0 0 394 160">
+  <style>
+    text { font-family: "Segoe UI", Arial, sans-serif; }
+    .shadow { fill: #c43a3a; }
+    .card { fill: #1e1e1e; stroke: #c43a3a; stroke-width: 3; }
+    .name { font-size: 23px; font-weight: bold; fill: #f4f4f4; }
+    .desc { font-size: 13px; fill: #c9c9c9; }
+    .stack { font-size: 12px; fill: #9a9a9a; }
+    .status { font-size: 11px; font-weight: bold; letter-spacing: 1px; fill: #c43a3a; }
+  </style>
+  <rect class="shadow" x="9" y="9" width="382" height="144" rx="14"/>
+  <rect class="card" x="3" y="3" width="382" height="144" rx="14"/>
+  <text class="name" x="20" y="42">SSNT Website</text>
+  <text class="desc" x="20" y="70">Website for Shankardev Shishu Niketan,</text>
+  <text class="desc" x="20" y="89">Tulshibari. School info, results, admin dashboard.</text>
+  <text class="stack" x="20" y="112">HTML, CSS, JavaScript · Cloudflare Workers · Supabase</text>
+  <text class="status" x="20" y="132">VIEW PROJECT</text>
+</svg>
