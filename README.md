@@ -27,3 +27,16 @@ I'm a developer. I learn by building things and fixing them when they break.
 <img src="assets/tech/git.svg" height="36" alt="Git"><img src="assets/tech/github.svg" height="36" alt="GitHub"><img src="assets/tech/cloudflare.svg" height="36" alt="Cloudflare"><img src="assets/tech/vercel.svg" height="36" alt="Vercel"><img src="assets/tech/render.svg" height="36" alt="Render">
 
 ---
+
+### Projects
+
+<a href="https://ssntulshibari.dpdns.org/"><img src="assets/projects/ssnt-website.svg" width="49%" alt="SSNT Website"></a>
+<img src="assets/projects/mxplus.svg" width="49%" alt="MXPlus">
+<img src="assets/projects/mxlevel.svg" width="49%" alt="MXLevel">
+<img src="assets/projects/mxaura.svg" width="49%" alt="MXAura">
+<img src="assets/projects/invia.svg" width="49%" alt="Invia">
+<img src="assets/projects/mavx.svg" width="49%" alt="MAVX">
+<img src="assets/projects/lootsnag.svg" width="49%" alt="LootSnag">
+<img src="assets/projects/lootsnag-site.svg" width="49%" alt="LootSnag Site">
+
+---
