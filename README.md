@@ -6,6 +6,6 @@
 
 I'm a developer. I learn by building things and fixing them when they break.
 
-**Now:** finishing the SSNT website.
+- **Now:** finishing the [SSNT website](https://ssntulshibari.dpdns.org/).
 
-**Learning:** JavaScript in depth, React, TypeScript and Next.js.
+- **Learning:** JavaScript in depth, TypeScript, React and Next.js.
